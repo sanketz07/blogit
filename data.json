@@ -1,0 +1,364 @@
+{
+  "users": [
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "id": 1
+    },
+    {
+      "name": "swapnil deokar",
+      "email": "swapnil@gmail.com",
+      "password": "aaaaa",
+      "id": 2
+    },
+    {
+      "name": "sanket sunil zunjakar",
+      "email": "sanketzunjakar1995@gmail.com",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "name": "ajay",
+      "email": "ajay@gmail.com",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "name": "ajay",
+      "email": "devgan",
+      "password": "5555",
+      "id": 5
+    },
+    {
+      "name": "sanket sunil zunjakar",
+      "email": "sanketzunjakar@gmail.com",
+      "password": "8888",
+      "id": 6
+    },
+    {
+      "name": "sanket sunil zunjakar",
+      "email": "sanketzunjakar@gmail.com",
+      "password": "8888",
+      "id": 7
+    },
+    {
+      "name": "sanket sunil zunjakar",
+      "email": "sanketzunjakar1995@gmail.com",
+      "password": "1234",
+      "id": 8
+    },
+    {
+      "name": "sameena",
+      "email": "sameena@gmail.com",
+      "password": "1234",
+      "id": 9
+    },
+    {
+      "name": "samadhan",
+      "email": "samadhansawant@gmail.com",
+      "password": "1234",
+      "id": 10
+    },
+    {
+      "name": "bachhan",
+      "email": "bachhan@gmail.com",
+      "password": "1234",
+      "id": 11
+    }
+  ],
+  "posts": [
+    {
+      "category": "TRAVEL",
+      "title": "travelling is source of happiness",
+      "AutherName": "sanket",
+      "body": "Travel is the movement of people between distant geographical locations. Travel can be done by foot, bicycle, automobile, train, boat, bus, airplane, ship or other means, with or without luggage, and can be one way or round trip.[1] Travel can also include relatively short stays between successive movements, as in the case of tourism.",
+      "likes": 0,
+      "id": 18
+    },
+    {
+      "category": "NATURE",
+      "title": "Mountains are the barrieers",
+      "AutherName": "sachin",
+      "body": "Mountain formation refers to the geological processes that underlie the formation of mountains. These processes are associated with large-scale movements of the Earth's crust (tectonic plates).[1] Folding, faulting, volcanic activity, igneous intrusion and metamorphism can all be parts of the orogenic process of mountain building.[2] The formation of mountains is not necessarily related to the geological structures found on it.",
+      "likes": 0,
+      "id": 19
+    },
+    {
+      "category": "FITNESS",
+      "title": "exercise: key to healthy life",
+      "AutherName": "samiksha",
+      "body": "Exercise is any bodily activity that enhances or maintains physical fitness and overall health and wellness.[1]\n\nIt is performed for various reasons, to aid growth and improve strength, prevent aging, develop muscles and the cardiovascular system, hone athletic skills, weight loss or maintenance, improve health,[2] or simply for enjoyment. Many individuals choose to exercise outdoors where they can congregate in groups, socialize, and improve well-being as well as mental health.[3][4]",
+      "likes": 0,
+      "id": 20
+    },
+    {
+      "category": "LITERATURE",
+      "title": "literature : source of knowledge",
+      "AutherName": "shital",
+      "body": "Literature broadly is any collection of written work, but it is also used more narrowly for writings specifically considered to be an art form, especially prose fiction, drama, and poetry.[2] In recent centuries, the definition has expanded to include oral literature, much of which has been transcribed.[3] Literature is a method of recording, preserving, and transmitting knowledge and entertainment, and can also have a social, psychological, spiritual, or political role.",
+      "likes": 0,
+      "id": 21
+    },
+    {
+      "category": "FOOD",
+      "title": "food for engergy",
+      "AutherName": "sanket",
+      "body": "Today, the majority of the food energy required by the ever-increasing population of the world is supplied by the industrial food industry, which produces food with intensive agriculture and distributes it through complex food processing and food distribution systems. This system of conventional agriculture relies heavily on fossil fuels, which means that the food and agricultural system is one of the major contributors to climate change, accountable for as much as 37% of total greenhouse gas emissions.[1] Addressing the carbon intensity of the food system and food waste are important mitigation measures in the global response to climate change.",
+      "likes": 0,
+      "id": 22
+    },
+    {
+      "category": "TECHNOLOGY",
+      "title": "new tech",
+      "AutherName": "sanket",
+      "body": "new new new",
+      "likes": 0,
+      "id": 23
+    },
+    {
+      "category": "Select Category",
+      "title": "www",
+      "AutherName": "sanket",
+      "body": "wwww",
+      "likes": 0,
+      "id": 24
+    },
+    {
+      "category": "FOOD",
+      "title": "ddd",
+      "AutherName": "dddd",
+      "body": "dddd",
+      "likes": 0,
+      "id": 25
+    },
+    {
+      "category": "TECHNOLOGY",
+      "title": "sam",
+      "AutherName": "sam",
+      "body": "sam",
+      "likes": 0,
+      "blogposttime": "2022-02-23T20:22",
+      "id": 26
+    },
+    {
+      "category": "FOOD",
+      "title": "abcd",
+      "AutherName": "abcd",
+      "body": "abcd",
+      "likes": 0,
+      "blogposttime": "2022-02-25T20:30",
+      "id": 27
+    },
+    {
+      "category": "TECHNOLOGY",
+      "title": "sss",
+      "AutherName": "ss",
+      "body": "sss",
+      "likes": 0,
+      "blogposttime": "2022-03-04T16:58",
+      "id": 28
+    },
+    {
+      "category": "Select Category",
+      "title": "sanket",
+      "AutherName": "sanket",
+      "body": "zz",
+      "likes": 0,
+      "blogposttime": "",
+      "id": 29
+    },
+    {
+      "category": "FOOD",
+      "title": "aaaa",
+      "AutherName": "aa",
+      "body": "aa",
+      "likes": 0,
+      "blogposttime": "",
+      "id": 30
+    },
+    {
+      "category": "NATURE",
+      "title": "qq",
+      "AutherName": "qq",
+      "body": "qq",
+      "likes": 0,
+      "blogposttime": "2022-02-23T17:19",
+      "id": 31
+    },
+    {
+      "category": "Select Category",
+      "title": "gg",
+      "AutherName": "gg",
+      "body": "ggg",
+      "likes": 0,
+      "blogposttime": "hhhh",
+      "id": 32
+    },
+    {
+      "category": "FITNESS",
+      "title": "fit",
+      "AutherName": "fit",
+      "body": "fit",
+      "likes": 0,
+      "blogposttime": "2022-2-23",
+      "id": 33
+    },
+    {
+      "category": "FITNESS",
+      "title": "final",
+      "AutherName": "final",
+      "body": "final",
+      "likes": 0,
+      "blogposttime": "2022-2-23 17:35:32",
+      "id": 34
+    },
+    {
+      "category": "FITNESS",
+      "title": "lllll",
+      "AutherName": "dddd",
+      "body": "lllll",
+      "likes": 0,
+      "blogposttime": "2022-2-23 17:37:53",
+      "id": 35
+    },
+    {
+      "category": "FOOD",
+      "title": "nnn",
+      "AutherName": "nn",
+      "body": "nnn",
+      "likes": 0,
+      "blogposttime": "2022-2-23 17:38:36",
+      "id": 36
+    },
+    {
+      "category": "TRAVEL",
+      "title": "last",
+      "AutherName": "last",
+      "body": "last",
+      "likes": 0,
+      "blogposttime": "2022-2-23 17:44:36",
+      "id": 37
+    },
+    {
+      "category": "NATURE",
+      "title": "kkkkk",
+      "AutherName": "kkk",
+      "body": "kkkkk",
+      "likes": 0,
+      "blogposttime": "2022-2-23 17:53:49",
+      "id": 38
+    },
+    {
+      "category": "LITERATURE",
+      "title": "llll",
+      "AutherName": "llll",
+      "body": "lllll",
+      "likes": 0,
+      "blogposttime": "2022-2-23 17:56:57",
+      "id": 39
+    },
+    {
+      "category": "Select Category",
+      "title": "ll",
+      "AutherName": "mm",
+      "body": "mmm",
+      "likes": 0,
+      "blogposttime": "2022-2-23 17:57:39",
+      "id": 40
+    },
+    {
+      "category": "TECHNOLOGY",
+      "title": "aaaaaa",
+      "AutherName": "aaaaaaaa",
+      "body": "aaaaaa",
+      "likes": 0,
+      "blogposttime": "2022-2-23 19:7:57",
+      "id": 41
+    }
+  ],
+  "commentusers": [
+    {
+      "name": "samadhan",
+      "email": "samadhan123@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "samadhan",
+      "email": "samadhan123@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "samadhan",
+      "email": "samadhan123@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "sameena",
+      "email": "sameena@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "sameena",
+      "email": "sameena@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "samadhan",
+      "email": "samadhan123@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "samadhan",
+      "email": "samadhan123@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "vrishali",
+      "email": "vrishali123@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "vrishali",
+      "email": "vrishali123@gmail.com",
+      "commenttext": "beautiful",
+      "id": 9
+    },
+    {
+      "name": "samadhan",
+      "email": "samadhan123@gmail.com",
+      "commenttext": "fantastic",
+      "id": 10
+    },
+    {
+      "name": "samadhan",
+      "email": "samadhan123@gmail.com",
+      "commenttext": "wonderful",
+      "id": 11
+    },
+    {
+      "name": "samadhan",
+      "email": "samadhan123@gmail.com",
+      "commenttext": "gorgeous",
+      "id": 12
+    },
+    {
+      "name": "samadhan",
+      "email": "samadhan123@gmail.com",
+      "commenttext": "classy",
+      "id": 13
+    },
+    {
+      "name": "vrishali",
+      "email": "vrishali123@gmail.com",
+      "commenttext": "fabulous",
+      "id": 14
+    },
+    {
+      "name": "sam",
+      "email": "saaaa",
+      "commenttext": "mast",
+      "id": 15
+    }
+  ]
+}

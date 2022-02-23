@@ -1,0 +1,82 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <link rel="stylesheet" href="styles.css">
+  <title>Blog Creation</title>
+</head>
+
+
+
+<body>
+  
+  <h1>Create a New Blog</h1>
+
+  <form>
+    <select class="form-select" aria-label="Default select example" name="Category" required placeholder="Blog Category">
+        <option selected>Select Category</option>
+        <option value="TECHNOLOGY">TECHNOLOGY</option>
+        <option value="FOOD">FOOD</option>
+        <option value="TRAVEL">TRAVEL</option>
+        <option value="NATURE">NATURE</option>
+        <option value="FITNESS">FITNESS</option>
+        <option value="LITERATURE">LITERATURE</option>
+        <option value="OTHERS">OTHERS</option>
+
+      </select>
+    <input type="text" name="title" required placeholder="Blog title">
+    <input type="text" name="AutherName" required placeholder="Auther Name">
+    <textarea name="body" required placeholder="Blog body"></textarea>
+    
+  
+
+  
+   
+
+
+<!-- Current Date and Time -->
+
+<input type="hidden" id="currentDateTime" name="blogposttime"required placeholder="Timestamp is added automatically" >
+<br><br>
+<script>
+
+function myFunction() {
+ 
+
+  var today = new Date();
+var date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
+var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
+var dateTime = date+' '+time;
+  document.getElementById("currentDateTime").value = dateTime;
+}
+</script>
+
+
+
+   
+
+   
+  
+    <button onclick="myFunction()" >Create</button>
+  </form>
+
+
+
+  <script src="writeblog.js"></script>
+
+  
+
+  
+
+
+</body>
+
+
+
+</html>
+
+
+
+
